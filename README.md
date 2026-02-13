@@ -1,4 +1,3 @@
-````md
 # newofetch
 
 Minimal, fast system information tool written in C.  
@@ -68,6 +67,3 @@ This project exists as a lightweight alternative and as a learning project for l
 ## License
 
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
-
-```
-```
