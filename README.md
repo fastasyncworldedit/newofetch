@@ -1,5 +1,5 @@
 # newofetch
-
+### now maintained by @unfamiliardev
 Minimal, fast system information tool written in C.  
 A simple Linux CLI utility inspired by neofetch, focused on speed and zero dependencies.
 
