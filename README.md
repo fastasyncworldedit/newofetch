@@ -38,7 +38,7 @@ Run:
 ## Example output
 
 ```
-User: matt@heropc
+User: fawe@heropc
 OS: Arch Linux
 Kernel: Linux 6.7.4
 Uptime: 1d 3h 12m
