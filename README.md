@@ -3,8 +3,7 @@
 Minimal, fast system information tool written in C.  
 A simple Linux CLI utility inspired by neofetch, focused on speed and zero dependencies.
 
- <img src="https://xedix.
-w3spaces.com/xedix-shield2.png" alt="Made with XediX" width="100"> 
+<a href="https://github.com/mostypc123/XediX"><img src="https://xedix.w3spaces.com/xedix-shield.png" alt="Made with XediX" width="100"></a>
 
 ## Features
 
